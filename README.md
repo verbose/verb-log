@@ -14,7 +14,7 @@ npm i verb-log --save
 var verb = require('verb');
 var log = require('verb-log');
 
-verb.task('readme', function () {
+verb.task('default', function () {
   verb.src('*.md')
     .pipe(verb.dest('foo'))
     .on('err', log);
