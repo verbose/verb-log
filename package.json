@@ -1,0 +1,37 @@
+{
+  "name": "verb-log",
+  "description": "Logging for Verb.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jonschlinkert/verb-log",
+  "author": {
+    "name": "Jon Schlinkert",
+    "url": "https://github.com/jonschlinkert"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jonschlinkert/verb-log.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonschlinkert/verb-log/issues"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://github.com/jonschlinkert/verb-log/blob/master/LICENSE"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "chalk": "^1.0.0",
+    "time-stamp": "^0.1.0"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
