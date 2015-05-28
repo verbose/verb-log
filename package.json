@@ -1,7 +1,7 @@
 {
   "name": "verb-log",
   "description": "Logging for Verb.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "homepage": "https://github.com/jonschlinkert/verb-log",
   "author": {
     "name": "Jon Schlinkert",
